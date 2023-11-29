@@ -13,3 +13,17 @@ C:\Users\Training\Desktop\Mohammed\Author and Book Management System Solution\Au
 C:\Users\Training\Desktop\Mohammed\Author and Book Management System Solution\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.pdb
 C:\Users\Training\Desktop\Mohammed\Author and Book Management System Solution\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.genruntimeconfig.cache
 C:\Users\Training\Desktop\Mohammed\Author and Book Management System Solution\Author and Book Management System\obj\Debug\net6.0\ref\Author and Book Management System.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\bin\Debug\net6.0\Author and Book Management System.exe
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\bin\Debug\net6.0\Author and Book Management System.deps.json
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\bin\Debug\net6.0\Author and Book Management System.runtimeconfig.json
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\bin\Debug\net6.0\Author and Book Management System.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\bin\Debug\net6.0\Author and Book Management System.pdb
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.AssemblyInfoInputs.cache
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.AssemblyInfo.cs
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.csproj.CoreCompileInputs.cache
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\refint\Author and Book Management System.dll
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.pdb
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\Author and Book Management System.genruntimeconfig.cache
+C:\Users\Eng AbuFiras\Desktop\code Academy\Author and Book Management System\Author and Book Management System\obj\Debug\net6.0\ref\Author and Book Management System.dll

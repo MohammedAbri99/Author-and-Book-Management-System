@@ -12,6 +12,10 @@ namespace Author_and_Book_Management_System
         int birthYear;
         string nationality;
         List<Book> books = new List<Book> { };
+        public string AuthorName
+        {
+            get { return authorName; }
+        }
 
         public Author(string autName, int byear, string nationality)
         {

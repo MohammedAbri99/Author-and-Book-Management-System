@@ -18,14 +18,12 @@ namespace Author_and_Book_Management_System
             this.publicationYear = pubYear;
             this.genre = gnre;
         }
-         public void displayBookInfo()
+        public void displayBookInfo()
         {
             Console.WriteLine($"Book Information:_\n" +
                 $"Title: {this.title}\n" +
                 $"Publication Year: {this.publicationYear}\n" +
                 $"Genre: {this.genre}");
-
-
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Training\\Desktop\\Mohammed\\Author and Book Management System Solution\\Author and Book Management System\\Author and Book Management System.csproj": {}
+    "C:\\Users\\Eng AbuFiras\\Desktop\\code Academy\\Author and Book Management System\\Author and Book Management System\\Author and Book Management System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Training\\Desktop\\Mohammed\\Author and Book Management System Solution\\Author and Book Management System\\Author and Book Management System.csproj": {
+    "C:\\Users\\Eng AbuFiras\\Desktop\\code Academy\\Author and Book Management System\\Author and Book Management System\\Author and Book Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Training\\Desktop\\Mohammed\\Author and Book Management System Solution\\Author and Book Management System\\Author and Book Management System.csproj",
+        "projectUniqueName": "C:\\Users\\Eng AbuFiras\\Desktop\\code Academy\\Author and Book Management System\\Author and Book Management System\\Author and Book Management System.csproj",
         "projectName": "Author and Book Management System",
-        "projectPath": "C:\\Users\\Training\\Desktop\\Mohammed\\Author and Book Management System Solution\\Author and Book Management System\\Author and Book Management System.csproj",
-        "packagesPath": "C:\\Users\\Training\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Training\\Desktop\\Mohammed\\Author and Book Management System Solution\\Author and Book Management System\\obj\\",
+        "projectPath": "C:\\Users\\Eng AbuFiras\\Desktop\\code Academy\\Author and Book Management System\\Author and Book Management System\\Author and Book Management System.csproj",
+        "packagesPath": "C:\\Users\\Eng AbuFiras\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eng AbuFiras\\Desktop\\code Academy\\Author and Book Management System\\Author and Book Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Training\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eng AbuFiras\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
